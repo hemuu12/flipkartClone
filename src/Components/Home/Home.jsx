@@ -35,6 +35,8 @@ const Home = () => {
             <Mobile />
             <BeforeFooter />
             {/* <Footer /> */}
+
+            
         </Box>
     )
 }
