@@ -27,6 +27,7 @@ import Navbar from '../Navbar/navbar';
     return (
       <>
         <VStack
+        
           spacing={4}
           align="stretch"
           alignItems="center"
