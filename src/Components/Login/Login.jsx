@@ -1,7 +1,7 @@
 import React, { useContext } from 'react'
 import { Signup } from './SignUp'
 import { useState, useEffect } from 'react'
-import { Link, Navigate } from 'react-router-dom'
+import { Link} from 'react-router-dom'
 import { ToastContainer, toast } from 'react-toastify'
 import 'react-toastify/dist/ReactToastify.css'
 import {
@@ -44,7 +44,7 @@ export function Login() {
   localStorage.setItem("loginsetName", JSON.stringify(name));
 
   let otp
-  let raj = 0
+ 
   const generateOtp = () => {
     otp = ''
 

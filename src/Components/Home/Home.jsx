@@ -4,7 +4,7 @@ import Bestselling from './homeComponents/Bestselling'
 import Electronics from './homeComponents/Electronics'
 import Fashion from './homeComponents/Fashion'
 import FinalBanner from './homeComponents/FinalBanner'
-import Footer from '../Footer/Footer'
+
 import Groceries from './homeComponents/Groceries'
 import Mobile from './homeComponents/Mobile'
 import TopOffers from './homeComponents/TopOffers'
@@ -36,7 +36,7 @@ const Home = () => {
             <BeforeFooter />
             {/* <Footer /> */}
 
-            
+
         </Box>
     )
 }

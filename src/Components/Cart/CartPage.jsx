@@ -496,6 +496,8 @@ function CartPage() {
             <Text color={'#878787'} w='100%' fontWeight='600' > Safe and Secure Payments.Easy returns.{<br/>}100% Authentic products.</Text>
           </Box>
         </Box>
+
+        
       </HStack>
     </Box>
   );
