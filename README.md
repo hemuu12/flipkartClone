@@ -53,7 +53,7 @@ flipkart clone is an India-based E-commerce that delivers throughout India. You 
 
 - ## Checkout page
 
-     <img width="959" alt="CheckoutPage" src="https://user-images.githubusercontent.com/85006343/194061458-8775b9ff-12ec-4ae2-bfd7-7a98493f06b7.png">
+     <img width="959" alt="CheckoutPage" src="">
    
 
 ## Show your support
